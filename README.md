@@ -1,5 +1,5 @@
 # redesigned-goggles
-A command-line clipboard using python.
+A terminal clipboard using python.
 
 Required packages:
 1. pyperclip package via pip3

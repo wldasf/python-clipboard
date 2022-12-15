@@ -1,4 +1,4 @@
-# redesigned-goggles
+# python-clipboard
 A terminal clipboard using python.
 
 Required packages:
